@@ -14,5 +14,8 @@ Enzo Amá Fatobene - RM: 562138
 
 ## Rep Git
 
+https://github.com/EnzoOFato/CP3-FlexBox
 
 ## GitHub pages
+
+https://enzoofato.github.io/CP3-FlexBox/
